@@ -1,7 +1,7 @@
 const students = [
     {student: 'Jay', passed: true},
-    {student: 'Zaid', passed: false},
-    {student: 'Brooke', passed: false},
+    {student: 'Zaid', passed: true},
+    {student: 'Brooke', passed: true},
     {student: 'Allen', passed: false}
 ];
 
